@@ -1,0 +1,43 @@
+.Container {
+  width: 600px;
+  margin: 80px auto;
+}
+.Title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.NoListText {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ccc;
+}
+.Btn {
+  width: 120px;
+  height: 32px;
+  border: 1px solid #000;
+  font-size: 14px;
+  font-weight: bold;
+}
+.List {
+  margin-top: 12px;
+}
+.Item {
+  border: 1px solid #000;
+  padding: 10px 15px 10px 20px;
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.Btn {
+  width: 120px;
+  height: 32px;
+  border: 1px solid #000;
+  font-size: 14px;
+  font-weight: bold;
+}

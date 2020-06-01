@@ -1,0 +1,24 @@
+{
+  "name": "fullstack-challenge-backend",
+  "version": "1.0.0",
+  "description": "Starter template for the backend part of Transparent Kitchen's Fullstack summer 2020 challenge",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js",
+    "test": "mocha --exit --timeout 10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "chai-http": "4.2.1",
+    "mocha": "^7.1.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "sqlite3": "^4.2.0"
+  }
+}

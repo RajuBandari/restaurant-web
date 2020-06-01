@@ -1,0 +1,33 @@
+.Container {
+  width: 400px;
+  margin: 80px auto;
+}
+.Title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.FormGroup {
+  display: flex;
+  margin-top: 25px;
+}
+.Label {
+  width: 30%;
+  text-align: right;
+  padding-right: 20px;
+}
+.ControlDiv {
+  width: 70%;
+}
+.Control {
+  width: 80%;
+  padding: 10px;
+}
+.Btn {
+  width: 120px;
+  height: 32px;
+  border: 1px solid #000;
+  font-size: 14px;
+  font-weight: bold;
+}
